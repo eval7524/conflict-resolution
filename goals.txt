@@ -1,1 +1,1 @@
-Goal : Master Git Branching
+Goal : Master Git Branching and Merging
